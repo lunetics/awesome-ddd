@@ -82,6 +82,7 @@
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
 - [Jef Claes](http://www.jefclaes.be/)
+- [CQRS from Edument](http://cqrs.nu/)
 
 ## Sample Projects
 
@@ -99,6 +100,7 @@
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - DDD Playground (sample implementation in PHP) by Jorge Arco
+- [PHP DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 port of the cargo sample used in Eric Evans Domain-Driven Design book
 
 ## Libraries and Frameworks
 
